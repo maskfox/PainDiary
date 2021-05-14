@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "869797611595",
+    "project_id": "paindairy-c15ac",
+    "storage_bucket": "paindairy-c15ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:869797611595:android:59236e419e0cbf0fa5e5ce",
+        "android_client_info": {
+          "package_name": "com.example.paindiary"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "869797611595-bd2paoqpq186gntmv72niebaltg67ced.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIW-A8gGdKWXVPMjuNxoPX4Mt_GB0bNtk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "869797611595-bd2paoqpq186gntmv72niebaltg67ced.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
